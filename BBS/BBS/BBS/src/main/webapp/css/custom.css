@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+
+*{
+	font-family : "Nanum Gothic";
+}
+h1 {
+	font-family : "Hanna";
+}
